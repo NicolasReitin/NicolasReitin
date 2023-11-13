@@ -32,17 +32,17 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> 
     </a>  
-    <a href="" target="_blank" rel="noreferrer"> 
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="html" width="40" height="50"/> 
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="50"/> 
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="html" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="html" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/> 
     </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
