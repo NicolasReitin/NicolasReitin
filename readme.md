@@ -32,6 +32,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> 
     </a>  
+    <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/emberjs/emberjs-icon.svg" alt="ember-js" width="40" height="50"/> 
+    </a> 
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="html" width="40" height="50"/> 
     </a> 
