@@ -52,10 +52,10 @@
 <h3 align="left">Languages in training :</h3>
 <p align="left"> 
     <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/emberjs/emberjs-ar21.svg" alt="ember-js" width="90" height="50"/> 
+        <img src="https://www.vectorlogo.zone/logos/emberjs/emberjs-ar21.svg" alt="ember-js" width="90" height="60"/> 
     </a> 
     <a href="https://fr.legacy.reactjs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react-js" width="90" height="50"/> 
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react-js" width="90" height="60"/> 
     </a> 
 </p>
 
