@@ -55,7 +55,7 @@
         <img src="https://www.vectorlogo.zone/logos/emberjs/emberjs-icon.svg" alt="ember-js" width="40" height="50"/> 
     </a> 
     <a href="https://fr.legacy.reactjs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react-js" width="40" height="50"/> 
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react-js" width="70" height="50"/> 
     </a> 
 </p>
 
