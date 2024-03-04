@@ -41,7 +41,10 @@
     <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> 
     </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://fr.legacy.reactjs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
+    </a> 
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40"/> 
     </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
