@@ -51,14 +51,3 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
 </p>
-
-<h3 align="left">Languages in training :</h3>
-<p align="left"> 
-    <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/emberjs/emberjs-ar21.svg" alt="ember-js" width="100" height="60"/> 
-    </a> 
-    <a href="https://fr.legacy.reactjs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react-js" width="100" height="60"/> 
-    </a> 
-</p>
-
