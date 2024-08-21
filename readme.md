@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h2 align="center">Junior developer in apprenticeship at XR+</h2>
+<h2 align="center">Developer Back-end at Pharma GDD</h2>
 
 
 - 👨‍💻 All of my projects are available at [https://nicolas-reitin.fr/](https://nicolas-reitin.fr/)
