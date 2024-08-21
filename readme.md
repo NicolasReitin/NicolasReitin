@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **contact@nicolas-reitin.fr**
 
-- 📄 Know about my experiences [https://nicolas-reitin.fr/Download/CV2023.pdf](https://nicolas-reitin.fr/Download/CV2024.pdf)
+- 📄 Know about my experiences [https://nicolas-reitin.fr/Download/CV2024.pdf](https://nicolas-reitin.fr/Download/CV2024.pdf)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
