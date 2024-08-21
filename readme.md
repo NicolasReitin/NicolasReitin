@@ -35,6 +35,9 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
     </a>  
+    <a href="https://symfony.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="laravel" width="40" height="40"/> 
+    </a>  
     <a href="https://fr.legacy.reactjs.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
     </a> 
