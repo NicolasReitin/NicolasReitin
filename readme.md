@@ -47,8 +47,11 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="50"/> 
     </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40"/> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="visual-studio-code" width="40" height="40"/> 
+    </a> 
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="visual-studio-code" width="40" height="40"/> 
     </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
