@@ -2,7 +2,7 @@
 <h2 align="center">Developer Back-end at Pharma GDD</h2>
 
 
-- 👨‍💻 All of my projects are available at [https://nicolas-reitin.fr/](https://nicolas-reitin.fr/)
+- 👨‍💻 All of my projects are available at [nicolas-reitin.fr/](https://nicolas-reitin.fr/)
 
 - 📫 How to reach me **contact@nicolas-reitin.fr**
 
