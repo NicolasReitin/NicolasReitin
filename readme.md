@@ -9,16 +9,14 @@
 - 📄 Know about my experiences [CV / Resume](https://nicolas-reitin.fr/Download/CV2024.pdf)
 
 <h2 align="left">Connect with me :</h2>
-<ul align="left" style="display: flex;">
-    <li style="list-style: none;">
-        <a href="https://linkedin.com/in/nicolasreitin" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas reitin" height="20" width="40" />
-        </a>
-    </li>
+<div align="left" style="display: flex;">
+    <a href="https://linkedin.com/in/nicolasreitin" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas reitin" height="20" width="40" />
+    </a>
     <a href="https://www.facebook.com/nicolas.reitin.2" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="nicolas reitin" height="40" width="40" />
     </a>
-</ul>
+</div>
 
 <h2 align="left">Languages and Tools :</h2>
 <h3 align="left">Front</h3>
