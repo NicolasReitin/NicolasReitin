@@ -9,8 +9,8 @@
 - 📄 Know about my experiences [CV / Resume](https://nicolas-reitin.fr/Download/CV2024.pdf)
 
 <h2 align="left">Connect with me :</h2>
-<ul align="left">
-    <li>
+<ul align="left" style="display: flex;">
+    <li style="list-style: none;">
         <a href="https://linkedin.com/in/nicolasreitin" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas reitin" height="20" width="40" />
         </a>
