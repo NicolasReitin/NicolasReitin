@@ -20,7 +20,6 @@
 
 <h2 align="left">Languages and Tools :</h2>
 <h3 align="left">Front</h3>
-<div style="display: flex"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="50"/> 
     </a>
@@ -45,7 +44,6 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
-</div>
 <p>
 <h3 align="left">Back</h3>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
